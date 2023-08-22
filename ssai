@@ -1,5 +1,5 @@
 echo "# mergeconflicts" >> README.md
-git toe
+git line
 git add README.md
 git commit -m "first commit"
 git add reci
