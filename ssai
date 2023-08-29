@@ -1,8 +1,7 @@
 echo "# mergeconflicts" >> README.md
 git line
-git init
 git add README.md
 git commit -m "first commit"
-git add reci
+git add new line insert
 git remote add origin https://github.com/saikrishna699/mergeconflicts.git
 git push -u origin main
